@@ -15,6 +15,7 @@ CV full: [<u>en</u>](https://kusakinvova.github.io/md/en-full) **ru** [<u>ua</u>
 | email | [cv.vladimirk@gmail.com](cv.vladimirk@gmail.com) |
 | github | [https://github.com/KusakinVova](https://github.com/KusakinVova) |
 | linkedin | [https://www.linkedin.com/in/kusakinvladimir/](https://www.linkedin.com/in/kusakinvladimir/) |
+
 &nbsp;
 
 ## 📝 Резюме
