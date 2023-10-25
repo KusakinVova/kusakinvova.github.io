@@ -1,33 +1,41 @@
+![Владимир Кусакин](../assets/img/photo.jpg)
+
 # Владимир **Кусакин**
 
 ## Frontend Developer | React 2+ | Web 10+
 
-CV: [<u>en</u>](https://kusakinvova.github.io/md/) **ru** [<u>ua</u>](https://kusakinvova.github.io/md/ua)
+CV: [<u>en</u>](https://kusakinvova.github.io/md/) [<u>ru</u>](https://kusakinvova.github.io/md/ru) [<u>ua</u>](https://kusakinvova.github.io/md/ua)
 
-CV full: [<u>en</u>](https://kusakinvova.github.io/md/en-full) [<u>ru</u>](https://kusakinvova.github.io/md/ru-full) [<u>ua</u>](https://kusakinvova.github.io/md/ua-full)
+CV full: [<u>en</u>](https://kusakinvova.github.io/md/en-full) **ru** [<u>ua</u>](https://kusakinvova.github.io/md/ua-full)
 
-## Контакты
+## 📞 Контакты
 
-- telegram - [@kusakinvladimir](https://t.me/kusakinvladimir)
-- email - [cv.vladimirk@gmail.com](cv.vladimirk@gmail.com)
-- github - [https://github.com/KusakinVova](https://github.com/KusakinVova)
-- linkedin - [https://www.linkedin.com/in/kusakinvladimir/](https://www.linkedin.com/in/kusakinvladimir/)
+| :--- | :--- |
+| telegram | [@kusakinvladimir](https://t.me/kusakinvladimir) |
+| email | [cv.vladimirk@gmail.com](cv.vladimirk@gmail.com) |
+| github | [https://github.com/KusakinVova](https://github.com/KusakinVova) |
+| linkedin | [https://www.linkedin.com/in/kusakinvladimir/](https://www.linkedin.com/in/kusakinvladimir/) |
 
-## Резюме
+&nbsp;
+
+## 📝 Резюме
 
 Имею более 10 лет опыта в веб-разработке, за это время сделал много E-commerce сайтов, Landing page и корпоративных сайтов.
 Ищу удаленную работу на полный рабочий день. Люблю работать над сложными задачами в которых используются новые технологии.
 
 Качества: умение работать в команде; ответственность; коммуникабельность; мобильность; внимательность и наблюдательность; самостоятельность.
+&nbsp;
 
-## Технические навыки
+## 🧩 Технические навыки
 
 - **Frontend development:** ReactJS, JavaScript, Next.js, Redux Toolkit, RTK Query, jQuery, TypeScript, HTML5, CSS3, Bootstrap, Materializecss, SCSS(Sass), Vue;
 - **Backend development:** PHP(1С-Битрикс, Joomla, Drupal, Wordpress, Simpla, Symphony), MySQL, Python (Django), PostgreSql, Node.js;
 - **Система контроля версий:** Git, Mercurial(HG);
 - Docker (Docker composer), Bash, LAMP, Webpack, Eslint, Socket.IO;
 
-## Опыт работы
+&nbsp;
+
+## 👨‍💻 Опыт работы
 
 | :--- | :--- |
 | 08.2022 — Present | Front-end Developer <br> Extrachain <br> |
@@ -84,6 +92,12 @@ CV full: [<u>en</u>](https://kusakinvova.github.io/md/en-full) [<u>ru</u>](https
 - запустил и настроил 3 сервера для хостинга сайтов
 - написал и исправил несколько компонентов на сайте (Vue)
 
+Стек:
+
+- ReactJS, Javascript(ES6), TypeScript, CSS3, Sass, HTML5, jQuery, Vue;
+- PHP(CMS, Symphony), Python (Django), PostgreSql, MySQL, Node.js;
+- Docker (Docker composer), Git, Hg(Mercurial), Bash, LAMP, Webpack, Eslint;
+
 ### Full-stack Developer 08.2014 — 04.2017
 
 Freelance
@@ -102,6 +116,12 @@ Freelance
 - внедрил системы систему метрики на сайты клиентов
 - интегрировал на сайты API заказа такси
 
+Стек:
+
+- Javascript(ES6, jQuery), CSS3, HTML5 (Bootstrap, Materializecss);
+- PHP (1С-Битрикс, Joomla, Wordpress, Simpla) MySQL;
+- Git, Bash, LAMP;
+
 ### PHP Developer 04.2013 — 07.2014
 
 ООО СТИБ <http://stib.com.ua/>
@@ -119,20 +139,49 @@ Freelance
 - добавил систему бонусов в "Билетной системы" (PHP, MySQL и Javascript);
 - прохождение курсов «Разработчик Bitrix Framework»;
 
-## Образование
+Стек:
 
-### Online образование
+- Javascript, jQuery, CSS, HTML;
+- PHP (Wordpress, 1С-Битрикс, Drupal), MySQL;
 
-- 2021 - **JAVASCRIPT/FRONT-END** The Rolling Scopes School EPAM
-- 2013 - **Bitrix Framework Developer** ООО "1C-Битрикс"
-- 2013 - **Basic CSS** NOU "INTUIT"
-- 2010 - **Java Fundamental** Java Fundamental сourses powered by Sun Microsystems ДонНТУ Унитех
+### Инженер АСУ 05.2012 — 04.2013
+
+ПАО «АВДЕЕВСКИЙ КОКСОХИМИЧЕСКИЙ ЗАВОД» <https://akhz.metinvestholding.com/ru>
+
+Обязанности:
+
+- разработка проектов АСУ ТП под управлением микроконтроллеров Siemens;
+- разработка и внедрение клиент-серверной приложения;
+- обслуживание микроконтроллеров Siemens, Schneider.
+
+Достижения:
+
+- разработал и внедрил клиент-серверное приложения "Учет компьютерных комплектующих".
+- спроектировал и внедрил "Автоматизированную систему сверления деталей" на базе контроллера Siemens CPU 315-2 PN/DP;
+- заменил поддержка проекта под управлением контроллера семейства Schneider, Импульсного тушения кокса в Коксовом цеху.
+
+&nbsp;
+
+## 🎓 Образование
+
+### Online курсы
+
+| :--- | :--- |
+| 2021 | **JAVASCRIPT/FRONT-END** <br> The Rolling Scopes School EPAM |
+| 2013 | **Bitrix Framework Developer** <br> ООО "1C-Битрикс" |
+| 2013 | **Basic CSS** <br> NOU "INTUIT" |
+| 2010 | **Java Fundamental**<br>Java Fundamental сourses powered by Sun Microsystems <br>ДонНТУ Унитех |
+
+&nbsp;
 
 ### Высшее образование
 
-2005 — 2011 **Магистр** <br> **Университет:** Донецкий национальный технический университет, Донецк Украина (ДонНТУ)<br> **Факультет:** Компьютерных наук и технологий <br> **Кафедра:** информационно управляющие системы (АСУ)<br> **Специализация:** Информационно управляющие системы и технологии (ИУС) |
+| :--- | :--- |
+| 2005 — 2011 | **Степень магистра** <br> **Университет:** Донецкий национальный технический университет, Донецк Украина (ДонНТУ)<br> **Факультет:** Компьютерных наук и технологий <br> **Кафедра:** информационно управляющие системы (АСУ)<br> **Специализация:** Информационно управляющие системы и технологии (ИУС) |
 
-## Знание языков
+&nbsp;
+
+## 📚 Знание языков
 
 - Английский - B1/B2
 - Русский - C2

@@ -1,18 +1,18 @@
-![Vladimir Kusakin](../assets/img/photo.jpg)
-
 # Vladimir **Kusakin**
 
-[cv (en)](https://kusakinvova.github.io/md/)
-[(ru)](https://kusakinvova.github.io/md/ru)
-[(ua)](https://kusakinvova.github.io/md/ua)
+## Frontend Developer | React 2+ | Web 10+
+
+CV: **en** [<u>ru</u>](https://kusakinvova.github.io/md/ru) [<u>ua</u>](https://kusakinvova.github.io/md/ua)
+
+CV full: [<u>en</u>](https://kusakinvova.github.io/md/en-full) [<u>ru</u>](https://kusakinvova.github.io/md/ru-full) [<u>ua</u>](https://kusakinvova.github.io/md/ua-full)
 
 ## 📞 Contacts
 
 | :--- | :--- |
 | telegram | [@kusakinvladimir](https://t.me/kusakinvladimir) |
-| email | [kusakinvova@gmail.com](kusakinvova@gmail.com) |
-| github | [KusakinVova](https://github.com/KusakinVova) |
-| linkedin | [KusakinVova](https://www.linkedin.com/in/kusakinvladimir/) |
+| email | [cv.vladimirk@gmail.com](cv.vladimirk@gmail.com) |
+| github | [https://github.com/KusakinVova](https://github.com/KusakinVova) |
+| linkedin | [https://www.linkedin.com/in/kusakinvladimir/](https://www.linkedin.com/in/kusakinvladimir/) |
 
 &nbsp;
 
@@ -55,7 +55,7 @@ The main goal is starting my career as a Middle Front-End developer. I want to i
 | :--- | :--- |
 | 2013 | **Bitrix Framework Developer**<br>Ltd "1C-Bitrix" |
 | 2013 | **Basic CSS** <br> NOU "INTUIT" |
-| 2010 | **Java Fundamental**<br>Java Fundamental сourses powered by Sun Microsystems <br>DonNTU UNITECH |
+| 2010 | **Java Fundamental**<br> Java Fundamental сourses powered by Sun Microsystems <br>DonNTU UNITECH |
 
 &nbsp;
 
