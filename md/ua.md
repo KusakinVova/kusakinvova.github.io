@@ -1,16 +1,18 @@
-![Володимир Кусакін](../assets/img/photo.jpg)
-
 # Володимир **Кусакін**
 
-[cv (en)](https://kusakinvova.github.io/md/)
-[(ru)](https://kusakinvova.github.io/md/ru)
-[(ua)](https://kusakinvova.github.io/md/ua)
+## Frontend Developer | React 2+ | Web 10+
+
+CV: [<u>en</u>](https://kusakinvova.github.io/md/) [<u>ru</u>](https://kusakinvova.github.io/md/ru) **ua**
+
+CV full: [<u>en</u>](https://kusakinvova.github.io/md/en-full) [<u>ru</u>](https://kusakinvova.github.io/md/ru-full) [<u>ua</u>](https://kusakinvova.github.io/md/ua-full)
+
+## --------------------------------
 
 ## 📞 Контакти
 
 | :--- | :--- |
 | telegram | [@kusakinvladimir](https://t.me/kusakinvladimir) |
-| email | [kusakinvova@gmail.com](kusakinvova@gmail.com) |
+| email | [cv.vladimirk@gmail.com](cv.vladimirk@gmail.com) |
 | github | [KusakinVova](https://github.com/KusakinVova) |
 | linkedin | [KusakinVova](https://www.linkedin.com/in/kusakinvladimir/) |
 
