@@ -9,7 +9,7 @@ CV full: [<u>en</u>](https://kusakinvova.github.io/md/en-full) [<u>ru</u>](https
 ## Контакты
 
 - telegram - [@kusakinvladimir](https://t.me/kusakinvladimir)
-- email - [cv.vladimirk@gmail.com](cv.vladimirk@gmail.com)
+- email - [kusakinvova@gmail.com](kusakinvova@gmail.com)
 - github - [https://github.com/KusakinVova](https://github.com/KusakinVova)
 - linkedin - [https://www.linkedin.com/in/kusakinvladimir/](https://www.linkedin.com/in/kusakinvladimir/)
 
