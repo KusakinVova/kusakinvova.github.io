@@ -1,6 +1,6 @@
 # Vova **Kusakin**
 
-## Frontend Developer | React 4+ | Web 10+
+## Full stack Developer | ReactJs 4+ | Web 10+
 
 CV: **en** [<u>ru</u>](https://kusakinvova.github.io/md/ru) [<u>ua</u>](https://kusakinvova.github.io/md/ua)
 
